@@ -2,6 +2,8 @@
 
 Proyek analisis data ini menganalisis pola penyewaan sepeda pada sistem **Capital Bikeshare** (Washington D.C., USA) sepanjang tahun 2011 hingga 2012. Proyek ini mencakup seluruh tahapan analisis data mulai dari *Data Wrangling*, *Exploratory Data Analysis (EDA)*, *Data Visualization*, *Advanced Clustering Analysis*, hingga pengembangan dashboard interaktif menggunakan **Streamlit**.
 
+🔗 **Live Dashboard (Streamlit Cloud):** [https://bikeshare-dashboard-astroxxii.streamlit.app/](https://bikeshare-dashboard-astroxxii.streamlit.app/)
+
 ---
 
 ## 📁 Struktur Direktori Proyek
@@ -34,7 +36,13 @@ submission/
 
 ---
 
-## 🚀 Panduan Menyiapkan Lingkungan (*Setup Environment*) & Menjalankan Dashboard
+## 🌐 Tautan Aplikasi Dashboard (Streamlit Cloud)
+Aplikasi dashboard interaktif telah aktif dan dapat diakses publik melalui tautan:  
+👉 **[https://bikeshare-dashboard-astroxxii.streamlit.app/](https://bikeshare-dashboard-astroxxii.streamlit.app/)**
+
+---
+
+## 🚀 Panduan Menyiapkan Lingkungan (*Setup Environment*) & Menjalankan Dashboard Lokal
 
 ### 1. Setup Environment - Anaconda
 ```bash
@@ -68,7 +76,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Menjalankan Dashboard Streamlit
+## ▶️ Menjalankan Dashboard Streamlit di Lokal
 
 Jalankan perintah berikut di terminal dari direktori utama proyek:
 

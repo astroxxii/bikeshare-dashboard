@@ -1,4 +1,1 @@
-# Tautan Dashboard Streamlit Cloud:
-# Silakan ganti tautan di bawah ini dengan URL publik aplikasi Anda setelah dideploy ke https://share.streamlit.io/
-https://capital-bikeshare-analysis.streamlit.app/
-
+https://bikeshare-dashboard-astroxxii.streamlit.app/
