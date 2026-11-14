@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Arsip ZIP mentah & folder submission lokal
+Bike-sharing-dataset.zip
+submission/
+submission.zip
+
+# File teks instruksi lokal Dicoding (opsional diabaikan agar GitHub rapi)
+Pengantar.txt
+Kriteria.txt
+Penilaian.txt
+Ketentuan Berkas Submission.txt
