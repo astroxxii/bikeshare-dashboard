@@ -13,14 +13,12 @@ submission/
 ├── dashboard/
 │   ├── main_data.csv        # Dataset harian bersih
 │   ├── hour_data.csv        # Dataset per jam bersih
-│   ├── all_data.csv         # Salinan dataset bersih (kompatibilitas)
 │   └── dashboard.py         # Aplikasi dashboard Streamlit
 ├── data/
 │   ├── day.csv              # Dataset mentah harian
 │   ├── hour.csv             # Dataset mentah per jam
 │   └── Readme.txt           # Dokumentasi dataset Capital Bikeshare
 ├── notebook.ipynb           # Jupyter Notebook yang telah tereksekusi
-├── Proyek_Analisis_Data.ipynb # Berkas template notebook asli yang telah tereksekusi
 ├── README.md                # Dokumentasi & panduan menjalankan dashboard
 ├── requirements.txt         # Daftar pustaka Python yang dibutuhkan
 └── url.txt                  # Tautan dashboard di Streamlit Cloud
